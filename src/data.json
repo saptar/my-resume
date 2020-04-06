@@ -1,25 +1,123 @@
 {
 
-	"name":"Saptarshi Dutta",
-	"emailid":"saptarshidutta31@gmail.com",
+	"name": "Saptarshi Dutta",
+	"emailid": "saptarshidutta31@gmail.com",
 	"phone": "+9741939309",
-	"title":"UI/FullStack Developer",
-	"profileImage":"https://media-exp1.licdn.com/dms/image/C4D03AQGbgN_v-IP_bg/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=pT3dsd22dmTTWmEvfzpNH02yGfUplN188N04QTOozDc",
-	"social":[
-		{
-			"icon":"linkedin-in",
+	"title": "UI/FullStack Developer",
+	"profileImage": "https://media-exp1.licdn.com/dms/image/C4D03AQGbgN_v-IP_bg/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=pT3dsd22dmTTWmEvfzpNH02yGfUplN188N04QTOozDc",
+	"social": [{
+			"icon": "linkedin-in",
 			"name": "LinkedIn",
 			"url": "https://www.linkedin.com/in/saptarshi31/"
 		},
 		{
-			"icon":"twitter",
-			"name":"Twitter",
-			"url":"https://twitter.com/saptarshi31"
+			"icon": "twitter",
+			"name": "Twitter",
+			"url": "https://twitter.com/saptarshi31"
 		},
 		{
-			"icon":"github-alt",
-			"name":"Github",
-			"url":"https://github.com/saptar"
+			"icon": "github-alt",
+			"name": "Github",
+			"url": "https://github.com/saptar"
 		}
+	],
+	"carrierSummary": "Experienced software developer working as a Technology Lead with infosys. I work in Digital experiences space and have in-depth knowledge of working with front end technologies in web and native app development. I have good understanding of backend technologies and have working experience in NodeJs and Springs MVC. In my current postion I have worked in teams responsible for delivering large scale enterprise applications.",
+	"workExperience": [{
+			"title": "Technology lead - Infosys ltd.",
+			"duration": "Oct 2019 - Present",
+			"company": "A large manufacturing and engineering company",
+			"description": "The work primarily involved commissioning and maintaining Microsoft Intune; a MDM Solution; on end user devices. In addtion, I was also responsible for 'Mobile Application Management' where I and my team had to work on innovative solutions to deploy and track various enterprisse application. We engaged with various development teams to help then adopt a better DevOps and create mature CI/CD pipelines.",
+			"tech": [
+				"MS Intune", "MS App Center", "CI/CD", "bash scripting"
+			]
+		},
+		{
+			"title": "Technology lead - Infosys ltd.",
+			"duration": "Dec 2017 - Sep 2019",
+			"company": "One of the world's largest Chemical Company based out of Germany",
+			"description": "My work primarily involved designing and developing windows 8.1 and UWP applications using XAML and C#. The app catered to the agricultural domain and proved to be very helpful in driving up sales by providing a platform for the sales representatives to move out on the field and engage with farmers direclty right on the farmlands. The app boast of a solid offline data persistance layer and SAP Mobile Platform middleware for data refresh and reconsilation. In addtion to the front end app, I also contributed to the backend layer written on Springs MVC with connections to SAP Hana as well as traditional SQL databases. I worked as a full stack developer in the project",
+			"tech": [
+				"XAML", "C#", "SAP Mobile Platform", "Java", "Springs MVC"
+			]
+		},
+		{
+			"title": "Technology Analyst - Infosys ltd.",
+			"duration": "Dec 2016 - Nov 2017",
+			"company": "A large Power solutions company based out of France",
+			"description": "I worked on creating interactive iOS solution leverage OpenUI library from Agentry Solutions(Part of SAP Mobile Platforms). I also contributed towards developing the backend logic using J2EE and connecting it with Salesforce. The app catered to feild engineers working with high power electrical machinery.",
+			"tech": [
+				"iOS", "openUI", "SMP 3.0", "J2EE"
+			]
+		},
+		{
+			"title": "Senior Systems Engineer - Infosys ltd",
+			"duration": "Mar 2014 - Nov 2016",
+			"company": "One of the worlds largest phone and consumer electronic manufacturer based out of California, US",
+			"description": "As a part of the project, I was engaged in developing UI using technologies such as html5, SCSS and CanJS.I also contributed towards creating a fast and stable CI/CD piple line using NodeJS, Gulp. I was also involved in providing quick and meaningful response for any critical production issue and production deployments in general.",
+			"tech": [
+				"Html5", "SCSS", "CSS", "Js", "CanJs", "NodeJs", "Gulp"
+			]
+		}
+	],
+	"skill":[
+		{
+			"name":"Html5/SCSS",
+			"proficiency":80
+		},
+		{
+			"name":"Angular",
+			"proficiency":70
+		},
+		{
+			"name":"React, Redux",
+			"proficiency":70
+		},
+		{
+			"name":"Java/J2EE/Springs MVC",
+			"proficiency":60
+		},
+		{
+			"name":"C#,.Net",
+			"proficiency":80
+		},
+		{
+			"name":"NodeJs",
+			"proficiency":70
+		},
+		{
+			"name":"DevOps/CI-CD",
+			"proficiency":60
+		}
+	],
+	"otherSkill":[
+		"Git", "Bash Scripting", "Unit Testing", "Requirement Analysis"
+	],
+	"education":[
+
+		{
+			"degree": "Bachelor of Engineering",
+			"university":"Nagpur University, India",
+			"speciality":"Electronics Engineering",
+			"duration":"2007-2011"
+		}
+	],
+	"language":[
+
+		{
+			"name":"Bengali",
+			"proficient":"Native"
+		},
+		{
+			"name":"Hindi",
+			"proficient":"Professional"
+		},
+		{
+			"name":"English",
+			"proficient":"Professional"
+		}
+	],
+	"interest":[
+		"Music",
+		"Sports"
 	]
 }
