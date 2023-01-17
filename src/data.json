@@ -2,8 +2,8 @@
   "name": "Saptarshi Dutta",
   "emailid": "saptarshidutta31@gmail.com",
   "phone": "+919741939309",
-  "title": "UI/FullStack Developer",
-  "profileImage": "/assets/images/profile_image.jpeg",
+  "title": "Technology Architect",
+  "profileImage": "/my-resume/assets/images/profile_image.jpeg",
   "social": [
     {
       "icon": "linkedin-in",
@@ -21,13 +21,20 @@
       "url": "https://github.com/saptar"
     }
   ],
-  "carrierSummary": "Experienced software developer working as a Technology Lead with infosys. I work in Digital experiences space and have in-depth knowledge of working with front end technologies in web and native app development. I have good understanding of backend technologies and have working experience in NodeJs and Springs MVC. In my current postion I have worked in teams responsible for delivering large scale enterprise applications.",
+  "carrierSummary": "Experienced software professional working as a Technology Architect with infosys. I work in Digital experiences space and have in-depth knowledge of working with front end technologies in web and native app development. I have good understanding of backend technologies and have working experience in NodeJs and Springs MVC. In my current postion I lead teams responsible for delivering large scale enterprise applications and digital transformation projects.",
   "workExperience": [
     {
+      "title": "Technology Architect - Infosys ltd.",
+      "duration": "Mar 2022 - Present",
+      "company": "A large automobile manufacturing company",
+      "description": "I lead a team as a technology architect to transform Mobile Device Management and platform management as a part of a larger Workspace transformation initiative, to bring all the devices used for business to new microsoft platform to ensure faster delivery of organisation level configurations, better security and access to business resources. This initiative provide oppurtunities to delivery high performance and reliable services using automation and other related services provide by Azure and power platforms.",
+      "tech": ["MS Intune", "SharePoint online", "CI/CD", "PowerShell","Microsoft Power Platform","bash scripting"]
+    },
+    {
       "title": "Technology lead - Infosys ltd.",
-      "duration": "Oct 2019 - Present",
+      "duration": "Oct 2019 - Mar 2022",
       "company": "A large manufacturing and engineering company",
-      "description": "The work primarily involved commissioning and maintaining Microsoft Intune; a MDM Solution; on end user devices. In addtion, I was also responsible for 'Mobile Application Management' where I and my team had to work on innovative solutions to deploy and track various enterprisse application. We engaged with various development teams to help then adopt a better DevOps and create mature CI/CD pipelines.",
+      "description": "The work primarily involved commissioning and maintaining Microsoft Intune; a MDM Solution; on end user devices. In addition, I was also responsible for 'Mobile Application Management' where I and my team had to work on innovative solutions to deploy and track various enterprisse application. We engaged with various development teams to help then adopt a better DevOps and create mature CI/CD pipelines.",
       "tech": ["MS Intune", "MS App Center", "CI/CD", "bash scripting"]
     },
     {
@@ -86,7 +93,8 @@
     "Git",
     "Bash Scripting",
     "Unit Testing",
-    "Requirement Analysis"
+    "Requirement Analysis",
+    "Pre-sales"
   ],
   "education": [
     {
