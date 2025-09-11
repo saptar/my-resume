@@ -21,11 +21,18 @@
       "url": "https://github.com/saptar"
     }
   ],
-  "carrierSummary": "Experienced software professional working as a Technology Architect with infosys. I work in Digital experiences space and have in-depth knowledge of working with front end technologies in web and native app development. I have good understanding of backend technologies and have working experience in NodeJs and Springs MVC. In my current postion I lead teams responsible for delivering large scale enterprise applications and digital transformation projects.",
+  "carrierSummary": "Experienced software professional working as a Technology Architect with infosys. I work in Digital experiences space and have in-depth knowledge of working with front end technologies in web and native app development. I have good understanding of backend technologies and have working experience in NodeJs and Springs MVC and Data engineering. In my current postion I lead teams responsible for delivering large scale enterprise applications and digital transformation projects.",
   "workExperience": [
     {
       "title": "Technology Architect - Infosys ltd.",
-      "duration": "Mar 2022 - Present",
+      "duration": "Nov 2023 - Present",
+      "company": "A large commercial automobile manufacturing company",
+      "description": "I designed the solution for data engineering, which involved reading data from various performing data clean up, data massaging using ETL techniques and persisting the data in a SQL database. I created ETL pipelines using Azure Data factory and microsoft fabric to design data pipelines. The accumulated data is then being processed to generate automation reports to support project management and migration. I also designed and published Power BI reports for KPI visualization and insights generation.",
+      "tech": ["Azure Data Factory", "SharePoint online", "CI/CD", "PowerShell","Microsoft Power Platform","Powershell scripting"]
+    },
+    {
+      "title": "Technology Architect - Infosys ltd.",
+      "duration": "Mar 2022 - October 2023",
       "company": "A large automobile manufacturing company",
       "description": "I lead a team as a technology architect to transform Mobile Device Management and platform management as a part of a larger Workspace transformation initiative, to bring all the devices used for business to new microsoft platform to ensure faster delivery of organisation level configurations, better security and access to business resources. This initiative provide oppurtunities to delivery high performance and reliable services using automation and other related services provide by Azure and power platforms.",
       "tech": ["MS Intune", "SharePoint online", "CI/CD", "PowerShell","Microsoft Power Platform","bash scripting"]
@@ -87,6 +94,14 @@
     {
       "name": "DevOps/CI-CD",
       "proficiency": 60
+    },
+    {
+      "name": "ETL",
+      "proficiency": 60
+    },
+    {
+      "name": "Microsoft Power Apps",
+      "proficiency": 70
     }
   ],
   "otherSkill": [
@@ -94,7 +109,11 @@
     "Bash Scripting",
     "Unit Testing",
     "Requirement Analysis",
-    "Pre-sales"
+    "Pre-sales",
+    "Microsoft Fabirc",
+    "Microsoft Power Apps",
+    "Microsoft Intune",
+    "Unified Endpoint Management"
   ],
   "education": [
     {
